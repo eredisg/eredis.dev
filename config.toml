@@ -1,4 +1,4 @@
-baseURL = "http://eredis.dev/"
+baseURL = "https://eredis.dev/"
 languageCode = "en-us"
 title = "Eredis Gutierrez"
 theme = "hugo-ink"
