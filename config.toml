@@ -1,0 +1,62 @@
+baseURL = "http://eredis.dev/"
+languageCode = "en-us"
+title = "Eredis Gutierrez"
+theme = "hugo-ink"
+paginate = 5
+
+copyright = "© Eredis Gutierrez."
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+	subtitle = "Software & Security Engineer"
+
+	# Optional 64x64 avatar image.
+	avatar = "https://avatars0.githubusercontent.com/u/7477643?s=460&u=bb4bfff9069f5df2b9e3b96ef0e20e86162b4a07&v=4"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/eredisg"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
