@@ -1,4 +1,8 @@
-# About
+---
+title: "About"
+type: "page"
+---
+
 Hello! My name is Eredis Gutierrez and I am a Software & Security Engineer based in Sarasota, FL. I am currently working for [Nucleus Security](https://nucleussec.com/), which specializes in vulnerability management. 
 
 Some of my hobbies include electrical engineering, amateur radio, music producing and 3D printing. 
