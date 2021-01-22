@@ -1,4 +1,5 @@
-baseURL = "https://eredis.dev/"
+relativeURLs = true
+baseURL = "/"
 languageCode = "en-us"
 title = "Eredis Gutierrez"
 theme = "hugo-ink"
