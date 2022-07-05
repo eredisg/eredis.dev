@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev on Eredis Gutierrez</title>
+    <link>/tags/dev/</link>
+    <description>Recent content in dev on Eredis Gutierrez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eredis Gutierrez.</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 22:43:54 +0000</lastBuildDate><atom:link href="/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everyday tools I use</title>
+      <link>/posts/everyday-tools/</link>
+      <pubDate>Sun, 18 Apr 2021 22:43:54 +0000</pubDate>
+      
+      <guid>/posts/everyday-tools/</guid>
+      <description>PHPStorm - IDE for PHP &amp;amp; Web Development. Includes intelligent auto-completion and productivity tools like built-in CSV viewer, DB Viewer, and PHPUnit.
+Windows Terminal - Improved CMD/Powershell terminal that allows split panes &amp;amp; better customization
+DBeaver - Universal database tool that is great to view large amount of data compared to the normal command line.
+Burp Suite Professional - Application security testing tool used to find vulnerabilities within an application.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Eredis Gutierrez"
-theme = "hugo-ink"
+theme = "etch"
 paginate = 5
 
 copyright = "© Eredis Gutierrez."
 
-pygmentsstyle = "vs"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 
 [params]
@@ -23,9 +23,8 @@ pygmentscodefencesguesssyntax = true
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+	highlight = true
 
 # Nav.
 [[menu.main]]
