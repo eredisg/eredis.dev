@@ -14,14 +14,6 @@ pygmentsUseClasses = true
 [params]
 	subtitle = "Software & Security Engineer"
 
-	# Optional 64x64 avatar image.
-	avatar = "https://avatars0.githubusercontent.com/u/7477643?s=460&u=bb4bfff9069f5df2b9e3b96ef0e20e86162b4a07&v=4"
-
-	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
-	
-	featherIconsCDN = true
-
 	mode = "auto" # "dark" or "auto"
 
 	highlight = true
