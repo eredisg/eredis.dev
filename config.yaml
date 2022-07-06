@@ -2,6 +2,7 @@ baseURL: /
 languageCode: en-us
 title: Eredis Gutierrez
 theme: mini
+themesDir: themes
 paginate: 3
 
 hasCJKLanguage: true
