@@ -1,0 +1,31 @@
+baseURL: /
+languageCode: en-us
+title: Eredis Gutierrez
+theme: mini
+paginate: 3
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+googleAnalytics: G-21TM71JD4P
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+
+social:
+  github: https://github.com/eredisg
+  twitter: https://github.com/eddiecodes
+
+
+params:
+  author: eredisg
+  bio: Software & Security Engineer
+  description: My Blog
+  enableGoogleAnalytics: true
+  hiddenPostSummaryInHomePage: true
+  customCSS:
+    - css/custom.css
